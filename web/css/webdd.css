@@ -1,0 +1,8 @@
+body {font-family: roboto;}.flex {display: flex;}.fl-ju-be {justify-content: space-between;}.fl-ju-ev {justify-content: space-evenly;}ul {list-style-type: none;}a {text-decoration: none;}.nen-mau-xanh {background-color: #3883E5;}.mautrang {color: #FFFFFF;}.picture {object-fit: cover;}.search {border: none;border-bottom: solid 1px #B8C3D0;padding: 5px;}.fs-14 {font-size: 14px;}.date1 {border: none;border-radius: 5px;border: solid 1px #7387A1;padding: 3px;}.dropdown-menu li {text-align: center;}.dropdown-menu li {border-bottom: 1px solid #CBF5FC;font-size: 12px;margin-bottom: 4px;padding: 4px;}.menu-right li {margin-left: 15px;font-size: 17px;margin-top: 7px;}.menu-right a {color: #7387A1;}.menu-right a:hover {text-decoration: underline;}.jumbo {font-size: 14px;border-radius: 8px;padding: 20px;background-color: #C7DFF5;color: #7387A1;}.cl-text-xanhthan {color: #7387A1;}.active {border-bottom: 2px solid #3883E5;font-weight: bold;}.cantrai {text-align:left;font-size: 15px;}.canphai {text-align:right;font-size: 15px;}.mg-auto {margin: 0 auto;}
+.animate__animated .animate__fadeInDown {
+  -- animation-delay: 2s;
+}
+.thongtinchitiet {
+    float: left;
+    width:50%;
+}
